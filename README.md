@@ -1,13 +1,12 @@
-```markdown
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Niraj%20Gupta&fontSize=50&animation=fadeIn&fontAlignY=35&color=gradient" />
+
+<!-- HEADER BANNER --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Niraj%20Gupta&fontSize=50&animation=fadeIn&fontAlignY=35&color=gradient" /> </p> 
+<!-- TYPING ANIMATION -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;DSA+with+Java+in+Progress;Building+Real+World+Projects;Exploring+Cybersecurity+%26+AI;Hackathon+Participant;Always+Learning+Something+New" /> 
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;DSA+with+Java+in+Progress;Building+Real+World+Projects;Exploring+Cybersecurity+%26+AI;Hackathon+Participant;Always+Learning+Something+New" />
-</p>
+
+
 
 ---
 
@@ -61,37 +60,13 @@ Windows • Linux (Ubuntu • Kali • Zorin OS)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-dev-Hub&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-dev-Hub&layout=compact" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Niraj-dev-Hub" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niraj-dev-Hub&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Niraj-dev-Hub  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Portfolio: https://your-portfolio.com  
-- Email: your-email@example.com  
+- LinkedIn: https://www.linkedin.com/in/niraj-gupta-670095292/
+<!--  - Portfolio: https://your-portfolio.com  -->
+- Email: alexgupta609@gmail.com  
 
 ---
 
