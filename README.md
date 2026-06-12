@@ -1,33 +1,101 @@
-## Hi there 👋 I'm Niraj   
+```markdown
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Niraj%20Gupta&fontSize=50&animation=fadeIn&fontAlignY=35&color=gradient" />
+</p>
 
-🚀 Computer Engineering Student | Learning Java & Web Dev  
-💻 Love to build websites and explore new technologies  
-🌱 Currently learning: Java, HTML, CSS, JavaScript  
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;DSA+with+Java+in+Progress;Building+Real+World+Projects;Exploring+Cybersecurity+%26+AI;Hackathon+Participant;Always+Learning+Something+New" />
+</p>
 
-### 🛠 Skills  
-- HTML, CSS  
-- Java (Basics)  
-- Git & GitHub
-- Seo (Basics)
-- WordPress (Basics)  
+---
 
-### 📫 Connect with me  
-- GitHub: [Niraj-Dev-Hub](https://github.com/niraj-dev-hub)  
-- LinkedIn:https://www.linkedin.com/in/niraj-gupta-670095292/
-- G-Mail: alexgupta609@gmail.com
+## 👋 About Me
 
+I am **Niraj Gupta**, a Computer Engineering student from Nepal passionate about technology, problem solving, and building real-world projects.
 
-<!--
-**Niraj-dev-Hub/Niraj-dev-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently focused on strengthening my **Data Structures & Algorithms using Java** while also exploring **full-stack web development and cybersecurity**.
 
-Here are some ideas to get you started:
+I believe in learning by building and improving step by step every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Consistency beats talent when talent doesn’t stay consistent.”
+
+---
+
+## 🚀 Current Focus
+
+- Data Structures & Algorithms (Java)
+- Problem Solving & Competitive Programming
+- Full Stack Web Development
+- Cybersecurity Basics & Ethical Hacking
+- Building Hackathon Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Java • C • Python • JavaScript • HTML • CSS
+
+### ⚙️ Frontend
+React • Tailwind CSS • Bootstrap
+
+### 🔧 Backend
+Node.js • Express.js • MongoDB (Basics)
+
+### 🧰 Tools
+VS Code • IntelliJ IDEA • Git • GitHub • WordPress • AI Tools
+
+### 🐧 Operating Systems
+Windows • Linux (Ubuntu • Kali • Zorin OS)
+
+---
+
+## 🏆 Experience
+
+- 🧠 Participant — Hack4Impact Hackathon  
+- 💡 Built multiple academic & personal web projects  
+- 📚 Learning via SoloLearn and self-practice  
+- 🔐 Exploring Cybersecurity & Ethical Hacking fundamentals  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-dev-Hub&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-dev-Hub&layout=compact" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Niraj-dev-Hub" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niraj-dev-Hub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Niraj-dev-Hub  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Portfolio: https://your-portfolio.com  
+- Email: your-email@example.com  
+
+---
+
+## ⚡ Closing Thought
+
+> “Small progress every day leads to massive results over time.”
+```
