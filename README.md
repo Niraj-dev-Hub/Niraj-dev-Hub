@@ -65,7 +65,7 @@ Windows • Linux (Ubuntu • Kali • Zorin OS)
 
 - GitHub: https://github.com/Niraj-dev-Hub  
 - LinkedIn: https://www.linkedin.com/in/niraj-gupta-670095292/
-- Portfolio: https://nirgupta.com.np  
+- Portfolio: https://nirajkgupta.com.np  
 - Email: alexgupta609@gmail.com  
 
 ---
